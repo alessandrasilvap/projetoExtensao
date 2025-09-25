@@ -13,7 +13,7 @@ O InfoWeb nasceu com o propósito de democratizar o acesso ao conhecimento sobre
 * **Glossário de Termos:** Explicação de termos técnicos de forma simples.
 * **Recursos Interativos:** Quiz e caça-palavras personalizados.
 
-## 🚀 Tecnologias Utilizadas (Preencha com o que você usou!)
+## 🚀 Tecnologias Utilizadas
 
 * **Frontend:**
     * HTML5
@@ -27,6 +27,7 @@ O InfoWeb nasceu com o propósito de democratizar o acesso ao conhecimento sobre
     * Git / GitHub
     * Visual Studio Code
 * **Outras Ferramentas/Bibliotecas:**
+    * Visual Studio Code
     * API ViaCEP (Para a busca do CEP)
     * API Leaflet (Para o mapa interativo)
     * API quiz/caça-palavra (API integrada junto com o PHP e Banco de dados)
@@ -48,9 +49,9 @@ O InfoWeb nasceu com o propósito de democratizar o acesso ao conhecimento sobre
     * Importe o script SQL inicial (`infoweb.sql`).
     * Configure as credenciais do banco de dados no arquivo de configuração.
 4.  **Acesse no navegador:**
-    Abra seu navegador e acesse `http://localhost`.
+    Abra seu navegador e acesse `http://localhost/infoWEB`.
 
-## 👥 Equipe (Se for um projeto em grupo, liste os membros)
+## 👥 Equipe
 
 * Alessandra Cristina da Silva Pereira (https://github.com/alessandrasilvap)
 * Bryan Caristiati Costa (https://github.com/Bryan22890)
