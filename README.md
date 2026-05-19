@@ -1,3 +1,5 @@
+<img width="1343" height="681" alt="image" src="https://github.com/user-attachments/assets/e5b69673-182b-4e3e-80e0-6660703e3d91" />
+
 # 🌐 InfoWeb
 
 Uma plataforma de extensão desenvolvida para auxiliar usuários com pouco conhecimento sobre a internet, oferecendo informações e recursos para a compreensão básica da navegação, ferramentas online e segurança digital.
